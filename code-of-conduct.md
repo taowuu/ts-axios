@@ -1,4 +1,3 @@
-# itjc8.com收集整理
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
